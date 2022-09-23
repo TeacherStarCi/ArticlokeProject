@@ -1,0 +1,21 @@
+input[type = text], input[type = password], select{
+  border: 1px solid #114918;
+  border-radius: 4px;
+  color: #114918;
+  font-size:16px;
+
+}
+input[type = submit]{
+    background-color: gainsboro;
+    padding: 5px 10px 5px 10px;
+    border: 1px solid #114918;
+    border-radius: 4px;
+    color:#114918;
+    background-color: #D5E6BD; 
+    font-size:24px;
+}
+
+input[type = submit]:hover{
+    background-color:  #114918;
+    color: #D5E6BD;
+}
